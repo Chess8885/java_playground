@@ -44,11 +44,6 @@ public class Main {
         return sc.nextInt();
     }
 
-    public static int demanderPrix(Scanner sc) {
-        System.out.println("Entrer le prix du billet (0 pour le prix par défaut de 40 euros)");
-        return sc.nextInt();
-    }
-
     public static int calculerTotal(int nbBillets, int prix) {
         return nbBillets * prix;
     }
