@@ -1,0 +1,4 @@
+Quel est le langage de programmation le plus populaire?,Java,C++,Python,Java
+Quel est le langage de programmation le plus utilisé pour la création de sites Web?,JavaScript,PHP,Python,JavaScript
+Quelle est la couleur du ciel par temps clair?,Bleu,Vert,Rouge,Bleu
+Quelle est la couleur du cheval blanc d'Henri IV?,Blanc,Vert,Rouge,Blanc
